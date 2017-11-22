@@ -4,5 +4,5 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Karteu Prototype' });
+  res.render('index', { title: 'Bluemix Pipeline' });
 };
